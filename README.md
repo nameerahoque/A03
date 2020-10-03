@@ -30,3 +30,6 @@
   <li><b>merge conflict:</b> when two merged repositories have conflicting commits
   <li><b>pull:</b> a Git shortcut used to fetch and merge in one command
   </ul></div>
+
+References:
+GitHub (2020) GitHub Guides. https://guides.github.com/activities/hello-world/
